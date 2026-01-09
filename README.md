@@ -15,16 +15,8 @@ Evolução Constante: Sempre aprimorando conhecimentos em Node.js e integração
 
 Aqui algumas das tecnologias com as quais tenho experiência e estou me aprofundando:
 Linguagens:
-<img src="https://skillicons.dev/icons?i=js,html,css" />
-
 Ambiente de Execução:
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
 Frameworks / Libs:
-<img src="https://skillicons.dev/icons?i=express,sequelize" />
-
 Database:
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-Versão & Ferramentas:
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+Tools e Technologies:
+IDEs:
