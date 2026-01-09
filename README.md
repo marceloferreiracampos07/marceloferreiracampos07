@@ -15,6 +15,7 @@ Evolução Constante: Sempre aprimorando conhecimentos em Node.js e integração
 
 Aqui algumas das tecnologias com as quais tenho experiência e estou me aprofundando:
 Categoria	Tecnologias
+Categoria	Tecnologias
 Linguagens	<img src="https://skillicons.dev/icons?i=js,html,css" />
 Ambiente de Execução	<img src="https://skillicons.dev/icons?i=nodejs" />
 Frameworks / Libs	<img src="https://skillicons.dev/icons?i=express,sequelize" />
