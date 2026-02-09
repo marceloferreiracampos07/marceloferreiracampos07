@@ -1,5 +1,5 @@
 # 👨‍💻 Sobre Mim
-Olá! Sou o **Marcelo Ferreira Campos Júnior**, estudante Técnico em Análise e Desenvolvimento de Sistemas com foco em **Desenvolvimento Back-End**. Sou apaixonado por construir sistemas eficientes, seguros e escaláveis, focando na lógica de negócio e na integridade dos dados.
+Olá! Sou o **Marcelo Ferreira Campos Júnior**, estudante de Engenharia de software , com foco em **Desenvolvimento Back-End**. Sou apaixonado por construir sistemas eficientes, seguros e escaláveis, focando na lógica de negócio e na integridade dos dados.
 
 🚀 **O que eu faço:**
 
