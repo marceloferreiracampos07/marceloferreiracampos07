@@ -18,7 +18,7 @@ Estudante de **Engenharia de Software** e **Desenvolvedor Full Stack**. Minha pa
 
 ### **Frontend & Styling**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,js,html,css" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,js,html,css" alt="Frontend Stack" />
 </p>
 
 ### **Backend & Infra**
