@@ -23,7 +23,7 @@ Estudante de **Engenharia de Software** e **Desenvolvedor Full Stack**. Minha pa
 
 ### **Backend & Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,postegree,docker" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,postgre,docker" alt="Backend Stack" />
 </p>
 
 ---
