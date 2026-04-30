@@ -9,7 +9,7 @@ Estudante de **Engenharia de Software** e **Desenvolvedor Full Stack**. Minha pa
 
 * **Full Stack Development:** Domínio completo do fluxo de dados, do componente Vue à consulta no banco de dados.
 * **Back-End focado em Performance:** Construção de APIs REST utilizando Node.js e Express, priorizando a lógica de negócio e integridade.
-* **Persistência de Dados:** Modelagem relacional e manipulação de dados com Sequelize e MySQL.
+* **Persistência de Dados:** Modelagem relacional e manipulação de dados com Sequelize e PostgreSQL.
 * **Soluções Reais:** Desenvolvedor do sistema **Jr.Stock**, focado na otimização de logística e inventário.
 
 ---
@@ -23,7 +23,7 @@ Estudante de **Engenharia de Software** e **Desenvolvedor Full Stack**. Minha pa
 
 ### **Backend & Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,PostgreSQL,docker" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres,docker" alt="Backend Stack" />
 </p>
 
 ---
