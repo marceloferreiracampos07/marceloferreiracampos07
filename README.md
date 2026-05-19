@@ -5,7 +5,7 @@
 </div>
 
 ### 👨‍💻 Sobre Mim
-Engenheiro de Software e Desenvolvedor Full Stack Júnior, atualmente cursando Engenharia de Software na Uninter. Sou focado em construir sistemas eficientes e escaláveis, unindo interfaces modernas com arquiteturas de back-end robustas, seguras e orientadas a testes.
+[cite_start]Engenheiro de Software e Desenvolvedor Full Stack Júnior, atualmente cursando Engenharia de Software na Uninter[cite: 8]. [cite_start]Possuo vivência prática no desenvolvimento de soluções escaláveis e arquitetura de software moderna[cite: 9]. [cite_start]Com experiência em todo o ciclo de vida de aplicações, destaco-me pela entrega de código de alta qualidade através de práticas de TDD (Test Driven Development), testes unitários e automação de pipelines CI/CD[cite: 10]. [cite_start]Atuo com foco no ecossistema JavaScript como Node.js, Vue.js e Nuxt.js, construindo sistemas eficientes, seguros e com infraestrutura robusta utilizando Docker e serviços Cloud[cite: 11].
 
 ---
 
@@ -43,5 +43,5 @@ Engenheiro de Software e Desenvolvedor Full Stack Júnior, atualmente cursando E
 ---
 
 ### 📫 Vamos nos conectar?
-* **LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/marcelo-ferreira-0471132b3/?skipRedirect=true)
-* **E-mail:** junior87721727@gmail.com
+* [cite_start]**LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/marcelo-ferreira-0471132b3/?skipRedirect=true) [cite: 6]
+* [cite_start]**E-mail:** junior87721727@gmail.com [cite: 5]
