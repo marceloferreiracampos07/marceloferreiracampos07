@@ -1,44 +1,45 @@
 # Olá, eu sou o Marcelo Ferreira Campos Júnior! 👋
 
-Desenvolvedor Full Stack Júnior & Engenheiro de Software
+## 🚀 Desenvolvedor Backend & Engenheiro de Software
 
 ---
 
 ### 📝 Resumo Profissional
 
-[cite_start]Sou Engenheiro de Software e Desenvolvedor Full Stack Júnior com forte vivência prática no desenvolvimento de soluções escaláveis e arquitetura de software moderna[cite: 8, 9]. [cite_start]Tenho experiência em todo o ciclo de vida de aplicações, destacando-me pela entrega de código de alta qualidade através de práticas de **TDD (Test Driven Development)**, testes unitários e automação de pipelines **CI/CD**[cite: 10]. 
+Sou Engenheiro de Software e Desenvolvedor Backend com forte vivência prática no desenvolvimento de soluções escaláveis e arquitetura de software moderna. Tenho experiência em todo o ciclo de vida de aplicações, destacando-me pela entrega de código de alta qualidade através de práticas de **TDD (Test Driven Development)**, testes unitários, automação de testes com **Jest** e **Vitest**, e pipelines robustos. 
 
-[cite_start]Atuo com foco principal no ecossistema JavaScript, utilizando tecnologias como **Node.js**, **Vue.js** e **Nuxt.js** para construir sistemas eficientes, seguros e com infraestrutura robusta baseada em **Docker** e serviços Cloud[cite: 11].
+Atuo com foco principal no ecossistema backend, utilizando tecnologias como **Node.js**, **TypeScript**, **PostgreSQL** e **Prisma** para construir sistemas eficientes, seguros e com infraestrutura escalável baseada em **Docker**, **Terraform** e **Redis**.
 
 ---
 
-### 🚀 Stack Tecnológica
+### 🛠️ Stack Tecnológica
 
-#### **Front-end**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+#### **Linguagens & Back-end**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-
-#### **Back-end & Banco de Dados**
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-#### **DevOps & Testes**
+
+#### **Banco de Dados & Mensageria**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-orange?style=for-the-badge)
+
+#### **DevOps, Infra & Testes**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ---
 
 ### 🛠️ No que venho trabalhando
 
-* [cite_start]**Desenvolvimento Full Stack & SaaS:** Arquitetura e implementação de funcionalidades para sistemas escaláveis, com foco em multi-tenancy e alta disponibilidade[cite: 27].
-* [cite_start]**Cultura de Qualidade & TDD:** Implementação sistemática de Test Driven Development e testes unitários com Jest, reduzindo drasticamente falhas em ambiente de produção[cite: 29].
-* [cite_start]**DevOps & CI/CD:** Construção e manutenção de pipelines automatizados com GitHub Actions para garantir uma integração contínua eficiente[cite: 30].
-* [cite_start]**Segurança e APIs:** Mitigação de vulnerabilidades através de validação de esquemas (Zod), cabeçalhos de proteção (Helmet), Rate Limiting e gerenciamento de segurança[cite: 31, 48].
+* **Arquitetura & Clean Architecture:** Desenvolvimento de APIs e microsserviços utilizando padrões avançados como Domain-Driven Design (DDD), Transactional Outbox, Unit of Work e Cache-Aside.
+* **Cultura de Qualidade & TDD:** Implementação sistemática de Test Driven Development utilizando Jest e Vitest para garantir alta cobertura e confiabilidade.
+* **Mensageria & Filas:** Processamento assíncrono e controle de tarefas em segundo plano com Redis (Pub/Sub e BullMQ).
+* **Infraestrutura como Código & DevOps:** Provisionamento e conteinerização de ambientes utilizando Docker, Docker Compose e Terraform.
 
 ---
 
@@ -53,9 +54,9 @@ Desenvolvedor Full Stack Júnior & Engenheiro de Software
 
 ### 📫 Conecte-se comigo
 
-Caso queira trocar uma ideia sobre arquitetura de software, desenvolvimento web ou oportunidades de colaboração, sinta-se à vontade para entrar em contato!
+Caso queira trocar uma ideia sobre arquitetura de software, desenvolvimento backend ou oportunidades de colaboração, sinta-se à vontade para entrar em contato!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-ferreira-0471132b3/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-junior/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junior87721727@gmail.com)
 
 *“Para evoluir na programação, não queira o código pronto: quebre a cuca na lógica e construa a solução.”* 💻
