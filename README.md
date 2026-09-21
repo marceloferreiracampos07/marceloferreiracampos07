@@ -8,7 +8,7 @@
 
 Sou Engenheiro de Software e Desenvolvedor Backend com forte vivência prática no desenvolvimento de soluções escaláveis e arquitetura de software moderna. Tenho experiência em todo o ciclo de vida de aplicações, destacando-me pela entrega de código de alta qualidade através de práticas de **TDD (Test Driven Development)**, testes unitários, automação de testes com **Jest** e **Vitest**, e pipelines robustos. 
 
-Atuo com foco principal no ecossistema backend, utilizando tecnologias como **Node.js**, **TypeScript**, **PostgreSQL** e **Prisma** para construir sistemas eficientes, seguros e com infraestrutura escalável baseada em **Docker**, **Terraform** e **Redis**.
+Atuo com foco principal no ecossistema backend, utilizando tecnologias como **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL** e **Prisma** para construir sistemas eficientes, seguros e com infraestrutura escalável baseada em **Docker** e **Redis**.
 
 ---
 
@@ -18,6 +18,7 @@ Atuo com foco principal no ecossistema backend, utilizando tecnologias como **No
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 #### **Banco de Dados & Mensageria**
@@ -28,7 +29,6 @@ Atuo com foco principal no ecossistema backend, utilizando tecnologias como **No
 
 #### **DevOps, Infra & Testes**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
@@ -36,10 +36,10 @@ Atuo com foco principal no ecossistema backend, utilizando tecnologias como **No
 
 ### 🛠️ No que venho trabalhando
 
-* **Arquitetura & Clean Architecture:** Desenvolvimento de APIs e microsserviços utilizando padrões avançados como Domain-Driven Design (DDD), Transactional Outbox, Unit of Work e Cache-Aside.
+* **Arquitetura & Clean Architecture:** Desenvolvimento de APIs e microsserviços utilizando **NestJS** e padrões avançados como Domain-Driven Design (DDD), Transactional Outbox, Unit of Work e Cache-Aside.
 * **Cultura de Qualidade & TDD:** Implementação sistemática de Test Driven Development utilizando Jest e Vitest para garantir alta cobertura e confiabilidade.
 * **Mensageria & Filas:** Processamento assíncrono e controle de tarefas em segundo plano com Redis (Pub/Sub e BullMQ).
-* **Infraestrutura como Código & DevOps:** Provisionamento e conteinerização de ambientes utilizando Docker, Docker Compose e Terraform.
+* **Infraestrutura & DevOps:** Provisionamento e conteinerização de ambientes utilizando Docker e Docker Compose.
 
 ---
 
